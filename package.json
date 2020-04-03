@@ -1,0 +1,25 @@
+{
+  "name": "components2vue",
+  "version": "1.0.0",
+  "description": "模仿elementui开发的组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laianliu/components2vue.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "704328204@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laianliu/components2vue/issues"
+  },
+  "homepage": "https://github.com/laianliu/components2vue#readme",
+  "dependencies": {
+    "esri-loader": "^2.13.0"
+  }
+}
